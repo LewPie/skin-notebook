@@ -1,5 +1,6 @@
-numpy
-tensorflow
+numpy==1.21.3
+scipy==1.7.2
+tensorflow==2.10
 matplotlib
 flask
 scikit-learn
